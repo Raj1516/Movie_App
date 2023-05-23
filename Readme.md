@@ -1,30 +1,57 @@
-As per the requirements of the project , I have completed the requirements of the project. These are stored in a folder called 'backend' and the frontend of the project is stored in the folder called frontend.
 
-I have mentioned the steps to deploy the code below
 
-step1: Before running the project, we will need to install the project dependencies so.
 
-step2: go to the 'frontend' folder from command line and run the 'npm install' command
+    | | - - - - - - - - - - - - - - - - - - - - - - - - | | 
+    | | - - - - - - - - - - - - - - - - - - - - - - - - | |
+    | |                                                 | |
+    | |    MOVIE BOOKING APP - UPGRAD COURSE PROJECT    | |
+    | |                                                 | |
+    | | - - - - - - - - - - - - - - - - - - - - - - - - | |
+    | | - - - - - - - - - - - - - - - - - - - - - - - - | |
 
-step3: then go to the 'backend' folder  from command line  and run the 'npm install' command there as well
 
-Now , after dependency installation the project is ready to be deployed
 
-step4: go to 'backend' folder from the command line terminal and run either of two commands - 'npm run dev' or 'node server.js'
+Dear Invigilator, this is my 'Project Write-Up'.
+I request you to kindly go through it.
+Thank you.
 
-The server.js is the index file of the backend where server initializaton using express is done 
 
-Mongo db connection will be established as soon as the server get started
+1) When you download the Zip file from my GitHub link "https://github.com/sun241moon/Movie_App" and when you extract the Zip, you will get My Main Project Folder called "Movie_App-main"
 
-step5: navigate to the 'frontend' folder using the command line and then run 'npm start' command, this will spin up the react app
+2) This "Movie_App-main" folder shall contain 2 subfolders namely "frontend" and "backend" along with this "Readme.md" file
 
-Now, the peoject will be deployed and ready to use
+3) The "Starter Code Files" that were initially provided to us by Upgrad by the name "Movie Booking Application Frontend Code.Zip", i have put them in the folder 'frontend'
 
-frontend URL: http://localhost/3000
-backend URL : http://localhost/8085
+(So basically, the entire project files are divided & stored in 2 separate folders - "frontend' which has all the front end files and 'backend' which has all the backend files)
 
-I am facing a little error while working with coupons nad fetching them, it was a little confusing for me. However I have tried my best and made sure that all other features are working well
+----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
 
-Thanks....!
+Please follow the below steps in order to run/execute the app =
+
+Step 1 --> Before running the project, we will need to install the project dependencies. And so, go to the 'frontend' folder from Command Line and run the 'npm install' command.
+
+Step 2 --> Now go to the 'backend' folder from command line and run the 'npm install' command in here aswell.
+
+Now , after all the dependencies are installed, the project is ready to be deployed
+
+Step 3 --> Now, go to the 'backend' folder from the command line terminal and run either of these two commands - 'npm run dev' or 'node server.js'
+
+Note 1 - The server.js is the index file of the backend where 'Server Initializaton Using Express' takes place 
+
+Note 2 - MongoDb connection will be established as soon as the server get started.
+
+Step 5 --> Now, navigate to the 'frontend' folder using the command line and then run the 'npm start' command, and this will spin up the 'React App'
+
+Now, the peoject will be deployed and it will be ready to use.
+
+Note 1 = frontend URL : http://localhost/3000
+Note 2 = backend URL : http://localhost/8085
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+I am facing a little error while working with 'Coupons and Fetching them'.
+It was a little confusing for me. However I have tried my best and made sure that all other features are working well.
+
+Thank You.
 
 
