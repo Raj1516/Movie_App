@@ -18,7 +18,7 @@ Thank you.
 
 1) When you download the Zip file from my GitHub link "https://github.com/sun241moon/Movie_App" and when you extract the Zip, you will get The Main Project Folder called "Movie_App-main"
 
-2) This "Movie_App-main" folder shall contain 2 subfolders namely "frontend" and "backend" along with this "Readme.md" file
+2) This "Movie_App-main" folder shall contain 2 subfolders namely "frontend" and "backend" along with this "Readme.md" file and 2 other files called "Example Error 1" and "Example Error 2"
 
 3) The 'Starter Code Files' that were initially provided to us by Upgrad by the name "Movie Booking Application Frontend Code.Zip", i have put them in the folder 'frontend'
 
@@ -47,6 +47,8 @@ Now, the peoject will be deployed and it will be ready to use.
 
 Note 1 = frontend URL : http://localhost/3000
 Note 2 = backend URL : http://localhost/8085
+
+IMPORTANT = When the App is deployed you may come across some errors as shown in the 2 files "Example Error 1" and "Example Error 2". These error are because many functions in the code provided to us are 'Depricated. You can simply click the 'X' button (close button) and continue. For more info, please check these 2 files "Example Error 1" and "Example Error 2".
 
 ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
 
