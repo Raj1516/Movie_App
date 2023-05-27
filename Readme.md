@@ -48,7 +48,7 @@ Now, the peoject will be deployed and it will be ready to use.
 Note 1 = frontend URL : http://localhost/3000
 Note 2 = backend URL : http://localhost/8085
 
-IMPORTANT = When the App is deployed you may come across some errors as shown in the 2 files "Example Error 1" and "Example Error 2". These error are because many functions in the code provided to us are 'Depricated. You can simply click the 'X' button (close button) and continue. For more info, please check these 2 files "Example Error 1" and "Example Error 2".
+IMPORTANT = When the App is deployed you may come across some errors as shown in the 2 files "Example Error 1" and "Example Error 2". These error are related to React/Front end. These errors  You can simply click the 'X' button (close button) and continue. For more info, please check these 2 files "Example Error 1" and "Example Error 2".
 
 ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
 
